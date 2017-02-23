@@ -6,3 +6,5 @@ theos/*
 **/obj/*
 _/*
 *.deb
+
+.DS_Store
